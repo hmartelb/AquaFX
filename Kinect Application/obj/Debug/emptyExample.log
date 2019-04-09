@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of NetworkingUtils.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\posix\NetworkingUtils.cpp, ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\win32\NetworkingUtils.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of UdpSocket.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\posix\UdpSocket.cpp, ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\win32\UdpSocket.cpp.
+  ofApp.cpp
+  emptyExample.vcxproj -> C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\bin\kinectBase_debug.exe
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\Win32\assimp.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\Win32\fmodex.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\Win32\fmodexL.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\Win32\FreeImage.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\Win32\freetype.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\Win32\glut32.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\Win32\libeay32.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\Win32\ssleay32.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\Win32\Zlib.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\x64\assimp.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\x64\fmodex64.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\x64\fmodexL64.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\x64\FreeImage.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\x64\freetype.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\x64\glut32.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\x64\libeay32.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\x64\ssleay32.dll
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\export\vs\x64\Zlib.dll
+  18 archivo(s) copiado(s)
+  C:\Users\Dire Wolf\Desktop\openFrameworks\of_v0.9.3_vs_release\apps\SCL\KinectStrokes\..\..\..\addons\ofxKinectCommonBridge\libs\KinectCommonBridge\lib\windows\KinectCommonBridge.dll
+  1 archivo(s) copiado(s)
